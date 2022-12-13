@@ -26,7 +26,7 @@
     "angular-pdf-generator": "^0.1.0",
     "body-parser": "^1.19.0",
     "chart.js": "^2.9.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "form-serializer": "^2.5.0",
     "html-pdf": "^2.2.0",
     "html2canvas": "^1.0.0-rc.5",
